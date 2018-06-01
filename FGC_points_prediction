@@ -14,24 +14,24 @@ class xypoints_fitting(object):
 #training_X#
 #training_Y#
 ############   
-	##
+    ##
     ##
     ##
 ##########
 #training# 
 #model   #
 ##########	
-	##
-	##
-	##
+    ##
+    ##
+    ##
 ###################
 #4 validation sets#
 #vali_X           #
 #vali_Y           #
 ###################
-	##
-	##
-	##
+    ##
+    ##
+    ##
 #############	
 #check error#
 #############
